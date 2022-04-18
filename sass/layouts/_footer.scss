@@ -19,12 +19,12 @@
     color: var(--text-color-theme-dark)
 }
 
-.footer-contact-item:not(:last-child) {
+.footer-contact__item:not(:last-child) {
     display: block;
     margin-bottom: 9px;
 }
 
-.footer-contact-link {
+.footer-contact__link {
     font-style: normal;
     font-size: 14px;
     line-height: 1.71;

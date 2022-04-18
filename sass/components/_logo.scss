@@ -8,25 +8,20 @@
     color: var(--accent-color);
 }
 
-.logo-header {
+.header__logo {
     padding-top: 24px;
     padding-bottom: 25px;
 }
 
-.logo-footer {
+.footer__logo {
     display: block;
     margin-bottom: 20px;
 }
 
-.part-logo {
-    font-family: var(--secondary-font-family);
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
+.header__logo_theme_light {
     color: #000000;
 }
 
-.text-color-theme-dark {
+.footer__logo_theme_dark {
     color: var(--text-color-theme-dark);
 }
