@@ -11,11 +11,11 @@
     margin-bottom: 50px;
 }
 
-.projects-filters-item:not(:first-child) {
+.projects-filters__item:not(:first-child) {
     margin-left: 8px;
 }
 
-.projects-filters-btn {
+.projects-filters__btn {
     padding: 6px 22px;
     background-color: var(--secondary-background-color);
     font-family: inherit;

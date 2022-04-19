@@ -6,7 +6,7 @@
     display: flex;
 }
 
-.features-item {
+.features-list__item {
     flex-basis: calc((100% - 90px) / 4);
     margin-right: 30px;
 
@@ -15,7 +15,7 @@
         }
 }
 
-.features-icon {
+.features-list__icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -26,7 +26,7 @@
     border-radius: 4px;
 }
 
-.features-title {
+.features-list__title {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.03em;
@@ -34,7 +34,7 @@
     margin-bottom: 10px;
 }
 
-.features-text {
+.features-list__text {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
